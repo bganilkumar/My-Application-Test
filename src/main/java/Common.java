@@ -8,7 +8,9 @@ public Common
 	{
 		/* This will display the value passed to it on the sys console*/
 		System.out.println(value);
+	}
 
+	// Testing it
 	public void feature(String value)
 	{
 		/* This will display the feature with the prefix feature */

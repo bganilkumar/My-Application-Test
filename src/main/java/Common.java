@@ -10,7 +10,7 @@ public Common
 		System.out.println(value);
 	}
 
-	// Testing it
+	// Testing it now
 	public void feature(String value)
 	{
 		/* This will display the feature with the prefix feature */
